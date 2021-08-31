@@ -1,1 +1,0 @@
-# An image gallery done using only HTML and CSS, using Bootstrap 3

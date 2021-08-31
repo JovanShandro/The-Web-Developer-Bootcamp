@@ -1,1 +1,0 @@
-# A responsive webpage that is done using only HTML and CSS using Bootstrap 4.

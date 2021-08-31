@@ -1,1 +1,0 @@
-# A simple todo list app using only vanilla javascript
